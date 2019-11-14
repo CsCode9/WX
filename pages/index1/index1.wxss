@@ -1,9 +1,1 @@
 /* pages/index1/index1.wxss */
-.view1{
-  width: 100%;
-  height: 100%;
-}
-
-.map1{
-  height: 500rpx;
-}
